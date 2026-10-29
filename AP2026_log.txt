@@ -215,7 +215,7 @@
 
 '-----------     2026.10.30 -------- カーソル行を削除 Ctrl + Shift + K（Macは Cmd + Shift + K） 画面キャプチャ　Win + Shift + S	　Macbook = Command + Shift + S -----------
 
-0
+0  0000 
 
 1
 
